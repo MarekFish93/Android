@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">The Beatles Quiz</string>
+    <string name="welcome">Are you The Beatles fan?\nLet\'s find out!\nTest yourself in our quiz.</string>
+    <string name="begin">Begin</string>
+
+    <string name="question_1">Where the band was created?</string>
+    <string name="answer1_1" translatable="false">Manchester</string>
+    <string name="answer1_2" translatable="false">Liverpool</string>
+    <string name="answer1_3" translatable="false">London</string>
+
+    <string name="question_2">Who sings in \"Yellow Submarine\"?</string>
+    <string name="answer2_1" translatable="false">John</string>
+    <string name="answer2_2" translatable="false">Ringo</string>
+    <string name="answer2_3" translatable="false">George</string>
+
+    <string name="question_3">Who loved to play the sitar?</string>
+    <string name="answer3_1" translatable="false">John</string>
+    <string name="answer3_2" translatable="false">Paul</string>
+    <string name="answer3_3" translatable="false">George</string>
+
+    <string name="question_4">Who married Yoko Ono?</string>
+    <string name="answer4_1" translatable="false">John</string>
+    <string name="answer4_2" translatable="false">Paul</string>
+    <string name="answer4_3" translatable="false">Ringo</string>
+
+    <string name="question_5">A band played in film which has the same title as one of their song. What song it is about?</string>
+    <string name="answer5_1" translatable="false">Eight Days a Week</string>
+    <string name="answer5_2" translatable="false">Hey Jude</string>
+    <string name="answer5_3" translatable="false">She loves you</string>
+
+    <string name="submit">Submit</string>
+
+    <string name="score1">Meeeh.\nYou should read more about The Beatles.\nYou cold get max 5 points.\nYour score is:\u0020</string>
+    <string name="score2">It might be better but\nyou know The Beatles quite well.\nYou cold get max 5 points.\nYour score is:\u0020</string>
+    <string name="score3">Yaaay.\nYou are the real fan of The Beatles!\nYou cold get max 5 points.\nYour score is:\u0020</string>
+</resources>
